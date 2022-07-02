@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ScreenVideoClass</class>
+ <widget class="QMainWindow" name="ScreenVideoClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>435</width>
+    <height>324</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ScreenVideo</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="ScreenVideo.qrc"/>
+ </resources>
+ <connections/>
+</ui>
